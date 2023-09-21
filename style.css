@@ -1,0 +1,8 @@
+html,
+.main-banner
+{
+    background: url(./Images_for_Web/banner.jpg)no-repeat center;
+    background-size: cover;
+    position: relative;
+    height: 50em;
+}
